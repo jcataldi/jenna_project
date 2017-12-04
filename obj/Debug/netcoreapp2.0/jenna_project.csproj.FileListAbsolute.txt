@@ -1,0 +1,10 @@
+c:\Users\mcata\OneDrive\Documents\VSCode\jenna_project\bin\Debug\netcoreapp2.0\jenna_project.deps.json
+c:\Users\mcata\OneDrive\Documents\VSCode\jenna_project\bin\Debug\netcoreapp2.0\jenna_project.runtimeconfig.json
+c:\Users\mcata\OneDrive\Documents\VSCode\jenna_project\bin\Debug\netcoreapp2.0\jenna_project.runtimeconfig.dev.json
+c:\Users\mcata\OneDrive\Documents\VSCode\jenna_project\bin\Debug\netcoreapp2.0\jenna_project.dll
+c:\Users\mcata\OneDrive\Documents\VSCode\jenna_project\bin\Debug\netcoreapp2.0\jenna_project.pdb
+c:\Users\mcata\OneDrive\Documents\VSCode\jenna_project\obj\Debug\netcoreapp2.0\jenna_project.csproj.CoreCompileInputs.cache
+c:\Users\mcata\OneDrive\Documents\VSCode\jenna_project\obj\Debug\netcoreapp2.0\jenna_project.AssemblyInfoInputs.cache
+c:\Users\mcata\OneDrive\Documents\VSCode\jenna_project\obj\Debug\netcoreapp2.0\jenna_project.AssemblyInfo.cs
+c:\Users\mcata\OneDrive\Documents\VSCode\jenna_project\obj\Debug\netcoreapp2.0\jenna_project.dll
+c:\Users\mcata\OneDrive\Documents\VSCode\jenna_project\obj\Debug\netcoreapp2.0\jenna_project.pdb
